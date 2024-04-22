@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Primary brand color. (Used for the action bar background) -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <!-- Status bar color. (Used for the status bar background on Lollipop and above) -->
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <!-- Accent color. (Used for various UI elements like FABs, checkboxes, etc.) -->
+        <item name="colorAccent">@color/purple_700</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

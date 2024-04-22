@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menuBack" android:icon="@drawable/arrow_left" android:orderInCategory="2" android:title="Go Back" app:showAsAction="always"/>
+    <item android:id="@+id/menuForward" android:icon="@drawable/arrow_right" android:orderInCategory="3" android:title="Go Forward" app:showAsAction="always"/>
+    <item android:id="@+id/menuHome" android:icon="@drawable/home" android:orderInCategory="4" android:title="Go Home" app:showAsAction="always"/>
+    <item android:id="@+id/menuRefresh" android:icon="@drawable/refresh" android:orderInCategory="1" android:title="Refresh" app:showAsAction="always"/>
+
+</menu>
